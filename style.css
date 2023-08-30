@@ -1,0 +1,62 @@
+.upperhead{
+   background-color: black;
+   padding: 1px;
+}
+
+
+.topic{
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: space-between;
+}
+
+.space{
+    background-color: white;
+    text-align: right;
+    font-size: 20px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+}
+
+#center{
+    background-image:url(https://i.pinimg.com/736x/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e--work-desk-motion-design.jpg);
+    background-position: center;
+    background-size: 1000px;
+    color: white; 
+   text-align: center;
+   font-weight: bold;
+    padding: 200px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    display: block;
+    justify-content: space-between;
+    font-weight: bolder;
+    margin-top: 10px;
+}
+
+#smalltext{
+    color: white; 
+   text-align: center;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: space-between;
+    display: block;
+    font-weight: bolder;
+    margin-top: 10px;
+}
+
+.create{
+    margin-top: 10px;
+    background-color: white;
+    text-align: right;
+    font-size: 20px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+    justify-content: center;
+}
